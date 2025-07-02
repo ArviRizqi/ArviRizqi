@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arvi Rizqi Fadhila</h1>
-<h3 align="center">I’m a computer science student with passion for frontend engineering, and a growing interest in machine learning.</h3>
+<h3 align="left">I’m a computer science student with passion for frontend engineering, and a growing interest in machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvirizqi&label=Profile%20views&color=0e75b6&style=flat" alt="arvirizqi" /> </p>
 
